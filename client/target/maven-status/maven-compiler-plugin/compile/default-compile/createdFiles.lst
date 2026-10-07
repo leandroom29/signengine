@@ -1,0 +1,9 @@
+com\leandroom29\signengine\client\TcpClientService$UploadResult.class
+com\leandroom29\signengine\client\TcpClientService$Writer.class
+com\leandroom29\signengine\client\TcpClientService.class
+com\leandroom29\signengine\client\TcpClientService$Connection.class
+com\leandroom29\signengine\client\ClientView.class
+com\leandroom29\signengine\client\CryptoUtils.class
+com\leandroom29\signengine\client\ClientApplication.class
+com\leandroom29\signengine\client\PdfSigner.class
+com\leandroom29\signengine\client\TcpClientService$DocumentInfo.class
